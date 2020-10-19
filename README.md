@@ -1,5 +1,5 @@
 <img src="https://images.unsplash.com/photo-1525721653822-f9975a57cd4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
-[[![deetoo's github stats](https://github-readme-stats.vercel.app/api?username=deetoo&show_icons=true&theme=default)](https://github.com/deetoo/)
+[![deetoo's github stats](https://github-readme-stats.vercel.app/api?username=deetoo&show_icons=true&theme=default)](https://github.com/deetoo/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deetoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: Becoming better at my job, there is a LOT to learn.
 - 🌱 I’m currently learning: More about Azure Container Instances, and Azure Copntainer Regiuustry than I ever cared to know about.
 - 💬 Ask me about: I've been a lifelong Angler, and just started kayak fishing. It's incredibly relaxing and would definitely recommend.
-- ⚡ Fun fact: I used to be a Welder, I have slid down the emergency exit of a commercial jet, my spirit animal is the turtle.
+- ⚡ Fun fact: I used to be a Welder... I have slid down the emergency exit chute of a commercial jet... My spirit animal is the Turtle.
