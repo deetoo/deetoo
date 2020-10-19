@@ -4,10 +4,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deetoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### I'm Doug, I'm not a Coder.
+### I'm Doug, and I'm not a Coder.
 
 Now that we have that out of the way, you'll find poorly written code here, but it will work (well, it worked whe nI commited it.) You may find some value in some of the projects I created here, if so I'm glad to have helped out, evern if only a bit.
 
+Some things you may find interesting in my repos:
+- RadioNerd - This was my project to scrape iHeartRadio local stations, and create tables of which songs were most recently played, and how often those songs are played.
+- GrafanaSystemLoginFGailures - This is my project that uses Grafana to graph how often I have skidz attempt to bruteforce my Linux server.
 <!--
 **deetoo/deetoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
