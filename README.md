@@ -1,5 +1,7 @@
 [![deetoo's github stats](https://github-readme-stats.vercel.app/api?username=deetoo&show_icons=true&theme=default)](https://github.com/deetoo/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deetoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **deetoo/deetoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
