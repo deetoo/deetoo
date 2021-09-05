@@ -16,7 +16,7 @@ Now that we have that out of the way, you'll find poorly written code here, but 
 
 
 
-- 🔭 I’m currently working on: Becoming better at my job at [Microsoft](https://azure.microsoft.com/en-us/), there is a LOT to learn.
+- 🔭 I’m currently working on: Becoming better at my job, where I work with a team of Platform Engineers, automating things, and generally improving things.
 - 🌱 I’m currently learning: More about [Azure Container Instances](https://docs.microsoft.com/en-us/azure/?product=containers), and [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/) than I ever cared to know about.
 - 💬 Ask me about: I've been a lifelong Angler, and just started kayak fishing. It's incredibly relaxing and would definitely recommend, I'd love to connect with others of the same interest.
 - ⚡ Fun facts: I used to be a Welder... I have slid down the emergency exit chute of a commercial jet... My spirit animal is the Turtle.
