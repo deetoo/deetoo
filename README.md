@@ -7,7 +7,7 @@
 
 ### I'm Doug, and I'm not a Coder.
 
-Now that we have that out of the way, you'll find poorly written code here, but it will work (well, it worked whe nI commited it.) You may find some value in some of the projects I created here, if so I'm glad to have helped out, even if only a bit.
+Now that we have that out of the way, you'll find poorly written code here, but it will work (well, it worked when I commited it.) You may find value in some of the projects I've created here, if so I'm glad to have helped out, even if only a bit.
 
 
 #### Some things you may find interesting in my repos:
@@ -16,7 +16,7 @@ Now that we have that out of the way, you'll find poorly written code here, but 
 
 
 
-- 🔭 I’m currently working on: Becoming better at my job, where I work with a team of Platform Engineers, automating things, and generally improving things.
+- 🔭 I’m currently working on: Becoming better at my job, where I work with a team of Platform Engineers, automating and generally improving things.
 - 🌱 I’m currently learning: More about Neo4J, Kafka, ElasticSearch and whatever else they need at work.
 - 💬 Ask me about: I've been a lifelong Angler, and just started kayak fishing. It's incredibly relaxing and would definitely recommend, I'd love to connect with others of the same interest.
 - ⚡ Fun facts: I used to be a Welder... I have slid down the emergency exit chute of a commercial jet... My spirit animal is the Turtle.
